@@ -7,6 +7,7 @@ This repository contains a collection of Arduino-based projects designed for esc
 ## Projects
 
 * [Keypad code entry](./keypad_code_entry/)
+* [Simon Says](./simon_says/)
 
 ## Installation
 
