@@ -33,7 +33,7 @@ Simply install these libraries in your Arduino IDE, copy the provided code, and 
 ## Live Simulation
 
 You can test this circuit on Tinkercad:
-[View tinkercad simulation]()
+[View tinkercad simulation](https://www.tinkercad.com/things/1xDoP8IsCVB-keypad-code-entry-)
 
 ## Credits
 
