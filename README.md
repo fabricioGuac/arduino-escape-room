@@ -8,6 +8,7 @@ This repository contains a collection of Arduino-based projects designed for esc
 
 * [Keypad code entry](./keypad_code_entry/)
 * [Simon Says](./simon_says/)
+* [Clock Hands Puzzle](./clock_hands_puzzle/)
 
 ## Installation
 

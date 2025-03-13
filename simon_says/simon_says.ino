@@ -6,13 +6,13 @@ const int TURNS = 5;
 // Array to store the sequence of the game
 int randomSqunce[TURNS];
 // Defines the pin for the buzzer
-const int BUZZER = 2;
+const byte BUZZER = 2;
 // Array for the buttons sounds (G3, A3, B3, C4)
 const int FREQ[4] = {196,220,247,262};
 // Array to define the pins for the LEDs
-const int LED_PINS[] = {13,12,11,10};
+const byte LED_PINS[] = {13,12,11,10};
 // Defines the pins for the buttons
-const int BTN_PINS[] = {6,5,4,3};
+const byte BTN_PINS[] = {6,5,4,3};
 // Variable to manage the level the player is in
 int level = 1;
 // Delay for the tone and LED display duration
